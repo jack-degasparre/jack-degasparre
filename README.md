@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @jack-degasparre
+- 👀 I’m interested in js,css
+- 🌱 I’m currently learning js
+- 💞️ I’m looking to collaborate on css
